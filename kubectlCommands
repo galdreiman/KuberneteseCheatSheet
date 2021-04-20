@@ -1,2 +1,2 @@
 Generate a plain-text list of all namespaces:
-  kubectl get namespaces
+  ```kubectl get namespaces```
